@@ -33,7 +33,7 @@ int main(void) {
 
 	}while(letra=='S');
 
-
+//comentario git
 
 	printf("La suma es %d",suma);
 
